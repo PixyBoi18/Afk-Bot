@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "AFK_Bot",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "PixyBoi18.aternos.me",
+    "port": 42989,
+    "version": "1.16.5"
   },
 
   "position": {
